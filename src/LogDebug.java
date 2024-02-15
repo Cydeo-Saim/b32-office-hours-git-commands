@@ -4,4 +4,5 @@ public class LogDebug {
 
     // uploading report
 
+    // method for tracking errors
 }
